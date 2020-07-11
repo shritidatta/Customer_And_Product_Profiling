@@ -41,6 +41,7 @@ This project is created by- Shriti Datta, Nikita Dange and Sanjiv Sharan.
 ## Blog
 
 One of the most important parts of any business is understanding who your customer is.
+
   **Customer profiling:** is a way to create a portrait of your customers to help us make design decisions concerning our services. The target customers are broken down into groups of customers sharing similar goals and characteristics and each group is given a representative with a photo, a name, and a description.  In layman terms customer profiles are “customer types,” which are created to represent the typical users of a product or service, and are used to help make customer-focused decisions without confusing the scope of the project with personal opinion. 
 
   **Product profiling:** linking key products and service requirements to process capabilities. In lay man terms it mean :when to produce, what to produce, how much to produce and for whom to produce. An accepted best practice in inventory planning is to adhere to the Pareto Principle, also known as the 80/20 rule.For inventory planners, this is also often referred to as product profiling, or ABC profiling.
