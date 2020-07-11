@@ -39,7 +39,7 @@ The code is created as a part of the capstone project for Aegis School of Data S
 This project is created by- Shriti Datta, Nikita Dange and Sanjiv Sharan.
 
 ## Blog
-```
+
 One of the most important parts of any business is understanding who your customer is.
   **Customer profiling:** is a way to create a portrait of your customers to help us make design decisions concerning our services. The target customers are broken down into groups of customers sharing similar goals and characteristics and each group is given a representative with a photo, a name, and a description.  In layman terms customer profiles are “customer types,” which are created to represent the typical users of a product or service, and are used to help make customer-focused decisions without confusing the scope of the project with personal opinion. 
 
@@ -55,4 +55,4 @@ The said machine learning model effectively creates clusters for various custome
 
 When we have different segments, we can design a customized marketing strategy as well as customized products that suit the customer of the particular segment. This segment-wise marketing will help the company sell more products with lower marketing expenses. Thus, the company will make more profit. 
 
-*Customer segmentation is used among other domain such as the retail domain, finance domain, and in customer relationship management (CRM)-based products.* ```
+*Customer segmentation is used among other domain such as the retail domain, finance domain, and in customer relationship management (CRM)-based products.* 
