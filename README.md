@@ -35,7 +35,8 @@ wordcloud:         $ sudo pip install wordcloud
 
 ## Credit
 
-The code is created as a part of the capstone project for Aegis School of Data Science, Telecommunication and Cybersecurity. The course credits are a part of partial completion of the course - 'Exec. Post Graduate Program in Data Science, Big Data, and Data Analytics.'
+The code is created as a part of the capstone project for Aegis School of Data Science, Telecommunication and Cybersecurity. The course credits are a part of partial completion of the course - 'Exec. Post Graduate Program in Data Science, Big Data, and Data Analytics.
+This project is created by- Shriti Datta, Nikita Dange and Sanjiv Sharan.
 
 ## Blog
 
